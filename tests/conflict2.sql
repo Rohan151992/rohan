@@ -1,1 +1,1 @@
-conflict 2 from app
+conflict 2 from remote
